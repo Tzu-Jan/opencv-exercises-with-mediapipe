@@ -10,9 +10,7 @@
 
 #### 03-Face Detection
 
-<img src="https://github.com/Tzu-Jan/opencv-exercises-with-mediapipe/blob/master/results/result3-1.png" width="300">
-<img src="https://github.com/Tzu-Jan/opencv-exercises-with-mediapipe/blob/master/results/result3-2.png" width="300">
-<img src="https://github.com/Tzu-Jan/opencv-exercises-with-mediapipe/blob/master/results/result3-3.png" width="300">
+<img src="https://github.com/Tzu-Jan/opencv-exercises-with-mediapipe/blob/master/results/result3-1.png" width="300"> <img src="https://github.com/Tzu-Jan/opencv-exercises-with-mediapipe/blob/master/results/result3-2.png" width="300"> <img src="https://github.com/Tzu-Jan/opencv-exercises-with-mediapipe/blob/master/results/result3-3.png" width="300">
 
 #### 04-Face Mesh
 
@@ -20,15 +18,13 @@
 
 #### 05-Pose Detect
 
-<img src="https://github.com/Tzu-Jan/opencv-exercises-with-mediapipe/blob/master/results/result5-2.png" width="200">
-<img src="https://github.com/Tzu-Jan/opencv-exercises-with-mediapipe/blob/master/results/result5-1.png" width="200">
+<img src="https://github.com/Tzu-Jan/opencv-exercises-with-mediapipe/blob/master/results/result5-2.png" width="200"> <img src="https://github.com/Tzu-Jan/opencv-exercises-with-mediapipe/blob/master/results/result5-1.png" width="200">
 
 ### Intergrated Project
 
 #### 06-Gesture Volume Control
 
-<img src="https://github.com/Tzu-Jan/opencv-exercises-with-mediapipe/blob/master/results/result6-1.png" width="400">
-<img src="https://github.com/Tzu-Jan/opencv-exercises-with-mediapipe/blob/master/results/result6-2.png" width="400">
+<img src="https://github.com/Tzu-Jan/opencv-exercises-with-mediapipe/blob/master/results/result6-1.png" width="400"> <img src="https://github.com/Tzu-Jan/opencv-exercises-with-mediapipe/blob/master/results/result6-2.png" width="400">
 
 Based on the Tutorial:
 https://youtu.be/01sAkU_NvOY
